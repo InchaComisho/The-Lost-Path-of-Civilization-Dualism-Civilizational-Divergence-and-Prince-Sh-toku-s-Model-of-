@@ -2,6 +2,8 @@
 
 **言語 / Language:** 日本語 | [English Version](README.md)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## The Lost Path of Civilization
 
 **二元論、文明分岐、そして聖徳太子の持続可能統治モデルに関する文明論的考察**
